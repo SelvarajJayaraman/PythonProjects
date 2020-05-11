@@ -3,7 +3,7 @@ Created on 11-May-2020
 
 @author: selvaraj
 '''
-print("#10 Python Reading Input Examples");
+print("#5 Python Reading Input Examples");
 print("*******************************")
 
 #To Read input from Users (Default type: String)
