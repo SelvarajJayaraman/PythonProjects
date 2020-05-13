@@ -15,6 +15,6 @@ b = ((2 < 3) or  (3 < 1));
 print("Logical OR Operator value:",  end = " ");
 print(b);
 
-c = not b;
+c = not(3 < 2);
 print("Logical Not Operator value:",  end = " ");
 print(c);
