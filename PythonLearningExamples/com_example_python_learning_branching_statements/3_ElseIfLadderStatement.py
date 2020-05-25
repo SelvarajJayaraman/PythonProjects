@@ -1,16 +1,16 @@
 '''
 Created on 13-May-2020
 
-@author: selvaraj
+@author: Selvaraj Jayaraman
 '''
 
 print("#12 Python Branching statements Example");
-print("*************************************************");
+print("*************************************");
 
 # Simple ElseIf ladder Statement Example
 
 print("# Simple ElseIf ladder Statement Example");
-print("*****************************");
+print("************************************");
 
 a=int(input("Enter Value of a:"));
 b=int(input("Enter Value of b:"));

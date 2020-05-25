@@ -1,10 +1,10 @@
 '''
 Created on 13-May-2020
 
-@author: selvaraj
+@author: Selvaraj Jayaraman
 '''
-print("#13 python Looping statment");
-print("**************************");
+print("#13 python Looping statement");
+print("***************************");
 
 a="Selvaraj";
 print("Print String as characters");

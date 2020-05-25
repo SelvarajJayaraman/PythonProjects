@@ -1,7 +1,7 @@
 '''
 Created on 13-May-2020
 
-@author: selvaraj
+@author: Selvaraj Jayaraman
 '''
 
 print("#12 Python Branching statements Example");
