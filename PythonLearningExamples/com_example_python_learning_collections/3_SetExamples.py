@@ -3,8 +3,8 @@ Created on 25-May-2020
 
 @author: Selvaraj Jayaraman
 """
-print("#  Python Set  statement")
-print("************************")
+print("#  Python Set Statement")
+print("***********************")
 
 a = {1, 2, 3, 4}
 print("A is type:", type(a))
